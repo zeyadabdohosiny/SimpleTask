@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWishteby">#411768</color>
+    <color name="colorWishtbyPrimary">#E52B73</color>
+    <color name="colorWishtbySecond">#9a1965</color>
+    <color name="colorWishtbySecondGedan">#7e1a66</color>
+    <color name="colorGrey">#C5C5C5</color>
+    <color name="colorGreyFateh">#E6E6E6</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWishtbyFoshya">#E61867</color>
+    <color name="colorPackageItem">#725988</color>
+    <color name="colorDarkPackageItem">#72508c</color>
+</resources>
